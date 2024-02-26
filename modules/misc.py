@@ -639,7 +639,7 @@ class Misc(commands.Cog):
                 embed.description += f"> 🤖 **⠂Bot(s) adicionais público(s):** `{public_bot_count:,}`\n"
 
             if private_bot_count:
-                embed.description += f"> 🤖 **⠂Bot(s) adicionais privado(s):** `{private_bot_count:,}`\n"
+                embed.description += f"> e🤖 **⠂Bot(s) adicionais privado(s):** `{private_bot_count:,}`\n"
 
             embed.description += f"> 🏙️ **⠂Servidores:** `{guilds_size}`\n"
 
